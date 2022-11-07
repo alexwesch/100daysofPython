@@ -1,2 +1,2 @@
 # 100daysofPython
- 100 days chal;enge/ udemy course
+ 100 days challenge/ udemy course
